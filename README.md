@@ -13,12 +13,12 @@
         🔭 Working customized systems for growing companies, using Laravel and .NET.
         🌱 Focusing on Learning about customer needs and making their lives easier.
         🌟 Main languages: PHP, JAVA and Python.
-	📫 Reach out to me at: sebasscslr@gmail.com
+	📫 📫 Reach out to me at: <a href="sebasscslr@gmail.com">sebasscslr@gmail.com</a>
   </pre>
 
 ## Connect with me
 <p align="center">
-	<a href="sebasscslr@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+	<a href="href="sebasscslr@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 	<a> <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 	<a href="https:"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>  
