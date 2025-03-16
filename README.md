@@ -13,7 +13,7 @@
         🔭 Working customized systems for growing companies, using Laravel and .NET.
         🌱 Focusing on Learning about customer needs and making their lives easier.
         🌟 Main languages: PHP, JAVA and Python.
-	📫 📫 Reach out to me at: <a href="sebasscslr@gmail.com">sebasscslr@gmail.com</a>
+	📫 Reach out to me at: <a href="sebasscslr@gmail.com">sebasscslr@gmail.com</a>
   </pre>
 
 ## Connect with me
